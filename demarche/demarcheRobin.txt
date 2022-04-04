@@ -1,0 +1,15 @@
+démarche abeille et pomme
+
+1 créer une branche sur git pour pouvoir y poser mon programme
+2 ouvrir unithub et le projet "Projet jeu"
+3 créer le game object "Pomme"
+4 créer le game object "Abeille"
+5 créer une flow machine 
+6 ajouter le game object "Pomme"
+7 lier Pomme avec un "on colision with" Player
+8 lier le on colision with avec un spécial event
+9 faire apparaitre l'abeille
+10 l'abeille a le même système de suivi que les ennemis de base
+11 l'abeille n'a pas de spécial event death au toucher des piques mais plutot avec 10 sec sur un timer
+12 l'abeille à une apparition random
+13 un "on colision with" player special event death avec l'abeille
